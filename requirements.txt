@@ -1,0 +1,11 @@
+pandas
+python-dotenv
+openpyxl
+requests
+pyodbc
+flask
+jupyter
+ipykernel
+notebook
+matplotlib
+scipy
